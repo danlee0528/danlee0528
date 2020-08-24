@@ -6,7 +6,7 @@
 [![Repos Badge](https://badges.pufler.dev/gists/danlee0528)](https://badges.pufler.dev)
 
 안녕하세요, 현재 캐나다에 살고 있는 소프트웨어 개발자 겸 대학 졸업반 학생 입니다. 좋은 정보 같이 공유해요! 🇰🇷🇨🇦 <br>
-<b>I'm expecting graduation in Dec 2020 and actively looking for <u>full-time</u> opportunities! Please check my Linkedin page for work history </b> :smile:
+<b>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</b>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dlee0528/)](https://www.linkedin.com/in/dlee0528/)
 [![Facebook: thaianebraga](https://img.shields.io/badge/-Facebook-navy?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/daniel.lee.3591267/)](https://www.facebook.com/daniel.lee.3591267/)
