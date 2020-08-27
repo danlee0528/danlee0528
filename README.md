@@ -14,7 +14,7 @@
 <br>
 <br>
 🔭 I’m currently working on Covid-19 Web Application
-<br>🌱 I’m currently mastering <strike>HTML</strike>, <strike>CSS</strike>, <strike>JavaScript</strike>, React.js, Node.Js, Java, Python
+<br>🌱 I’m currently mastering <strike>HTML</strike>, <strike>CSS</strike>, <strike>JavaScript</strike>, React.js, Node.Js, TypeScript, Java, Python
 <br>:bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways
 <br>
 <br>
