@@ -13,7 +13,7 @@
 <b>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</b>
 <br>
 <br>
-🔭 I’m currently working on Covid-19 Web Application
+🔭 I’m currently working on something in secret 
 <br>🌱 I’m currently mastering <strike>HTML</strike>, <strike>CSS</strike>, <strike>JavaScript</strike>, React.js, Node.Js, TypeScript, Python
 <br>:bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways
 <br>
