@@ -10,11 +10,13 @@
 <br>
 <br>
 안녕하세요, 현재 캐나다에 살고 있는 소프트웨어 개발자 겸 대학 졸업반 학생 입니다. 좋은 정보 같이 공유해요! 🇰🇷🇨🇦 <br>
+I'm a Vancouver-based software developer and soon-to-graudate computer science student. Let's connect for greater sakes!
+<br>
 <b>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</b>
 <br>
 <br>
 🔭 I’m currently working on something in secret 
-<br>🌱  I love developing visual and interactive applications integrated with data
+<br>🌱  I enjoy developing visual, tangible, interactive applications and playing with data
 <br>:bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways
 <br>
 <br>
