@@ -15,7 +15,7 @@ I'm a Vancouver-based software developer and soon-to-graudate computer science s
 <b>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</b>
 <br>
 <br>
-🔭 I’m currently working on something in secret 
+🔭 I’m working to have general web development skills combined with AI & Data
 <br>🌱  I enjoy developing visual, tangible, interactive applications and playing with data
 <br>:bulb: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways
 <br>
