@@ -15,7 +15,7 @@
 <br>:seedling: I’m working on my general web development skills and following my interest in AI & Data
 <br>:wrench:  I enjoy developing visual, tangible, interactive applications and playing with data
 <br>:whale: I'm an optimist, visionary always thinking about innovative ways to contribute to the society in good ways
-<br>:unicorn: I'm also blog writer: https://dev.to/danlee0528
+<br>:unicorn: I also write blog posts to share my thoughts on tech: https://dev.to/danlee0528
 <br>:school_satchel: I use HTML5, CSS3, JavaScript(ES6), Python, Java, React.js, Node.js, Express.js, MongoDB, MySQL, MS SQL, PostgreSQL
 <br>
 <br>
