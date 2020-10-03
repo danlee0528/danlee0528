@@ -5,7 +5,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/danlee0528/danlee0528)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/gists/danlee0528)](https://badges.pufler.dev)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dlee0528/)](https://www.linkedin.com/in/dlee0528/)
-[![Facebook: thaianebraga](https://img.shields.io/badge/-Facebook-navy?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/daniel.lee.3591267/)](https://www.facebook.com/daniel.lee.3591267/)
 [![Instagram: thaianebraga](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=hhttps://www.instagram.com/dlee0528/)](https://www.instagram.com/dlee0528/)
 <br>
 <br>
