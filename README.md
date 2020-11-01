@@ -1,11 +1,6 @@
 # Hi there, welcome to my Github space :rocket:
 
-[![Years Badge](https://badges.pufler.dev/years/danlee0528)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/danlee0528)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/danlee0528/danlee0528)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/gists/danlee0528)](https://badges.pufler.dev)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dlee0528/)](https://www.linkedin.com/in/dlee0528/)
-[![Instagram: thaianebraga](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=hhttps://www.instagram.com/dlee0528/)](https://www.instagram.com/dlee0528/)
 <br>
 <br>
 안녕하세요, 현재 캐나다에 살고 있는 소프트웨어 개발자 겸 대학 졸업반 학생 입니다. 좋은 정보 같이 공유해요! 🇰🇷🇨🇦 <br>
