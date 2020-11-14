@@ -9,13 +9,13 @@
     <a href="https://www.youtube.com/channel/UCwqWNzINlWxwfNCPAU86_Fg?view_as=subscriber" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   </div>
 </details>
-
 <ul>
-<li> 🇨🇦 Hi, I'm a Vancouver-based CS student who has strong interest in Web-based Platform Development.</li>
+<li> 🇨🇦 Hi, I'm a Vancouver-based CS student who has strong interest in Web-based Platform Development</li>
 <li> 🇰🇷 안녕하세요, 현재 캐나다에 살고 있는 소프트웨어 개발자 겸 대학 졸업반 학생 입니다. 좋은 정보 같이 공유해요!</li>
-<li>:wrench: I enjoy developing visual, tangible and interactive web applications </li>
-<li>:whale: I'm optimistic, hard-working and visionary who strives to make the best out of every opportunity</li>
-<li>:wave: I have some exposure to Android App Development, Data Networking, Machine Learning, Web Systems Architecture, etc. </li>
+</ul>
+<ul>
+<li>:wrench: I enjoy developing visual, tangible and interactive applications </li>
+<li>:paperclip: I have some basic understanding of Graphic Designs and Digitial Image Designs (check my Instagram)</li>
 <li>:hammer: HTML5, CSS3, JavaScript(ES6),Python, React.Js, Express.Js, Node.Js, Django, MongoDB, MySQL, MS SQL, PostgreSQL</li>
 <li>:mortar_board: <strong>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</strong></li>
 </ul>
