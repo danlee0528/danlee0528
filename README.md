@@ -15,8 +15,9 @@
 <li> 🇰🇷 안녕하세요, 현재 캐나다에 살고 있는 소프트웨어 개발자 겸 대학 졸업반 학생 입니다. 좋은 정보 같이 공유해요!</li>
 <li>:wrench: I enjoy developing visual, tangible and interactive web applications </li>
 <li>:whale: I'm optimistic, hard-working and visionary who strives to make the best out of every opportunity</li>
-<li>:mortar_board: <strong>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</strong></li>
+<li>:wave: I have some exposure to Android App Development, Data Networking, Machine Learning, Web Systems Architecture, etc. </li>
 <li>:hammer: HTML5, CSS3, JavaScript(ES6),Python, React.Js, Express.Js, Node.Js, Django, MongoDB, MySQL, MS SQL, PostgreSQL</li>
+<li>:mortar_board: <strong>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</strong></li>
 </ul>
 
 ## Quick Summary
