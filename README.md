@@ -16,7 +16,8 @@
 <ul>
 <li>:wrench: I enjoy developing visual, tangible and interactive applications </li>
 <li>:paperclip: I have some basic understanding of Graphic Designs and Digitial Image Designs (check my Instagram)</li>
-<li>:hammer: HTML5, CSS3, JavaScript(ES6),Python, React.Js, Express.Js, Node.Js, Django, MongoDB, MySQL, MS SQL, PostgreSQL</li>
+<li>:hammer: Front-End: HTML5, CSS3, JavaScript(ES6), React.Js</li>
+<li>:nut_and_bolt: Back-End: Python, Express.Js, Node.Js, Django, MongoDB, MySQL, MS SQL, PostgreSQL </li>
 <li>:mortar_board: <strong>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</strong></li>
 </ul>
 
