@@ -22,7 +22,6 @@
     <li>:hammer: <strong>Front-End:</strong> HTML5, CSS3, JavaScript(ES6), React</li>
     <li>:nut_and_bolt: <strong>Back-End:</strong> Node, Express, Python(Django), MongoDB, MySQL, MS SQL</li>
     <li>:handbag: <strong>Exposure:</strong> Java, PHP, C, C++, Kubernetes, AWS, GCP, Docker, PostgreSQL </li>
-    <li>:sweat_drops: <strong>Learning:</strong> TypeScript, Redux, SASS, Mocha</li>
   </ul>
 
   ## Quick Summary
