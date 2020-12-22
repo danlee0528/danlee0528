@@ -1,5 +1,5 @@
 # Hi there, welcome to my Github space 🚀
-  <details>
+  <details open>
     <summary>My Social Networking Sites</summary>
     <div>
       <a href="https://www.linkedin.com/in/dlee0528/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -19,9 +19,5 @@
     <li>:nut_and_bolt: <strong>Back-End:</strong> Node, Express, Python(Django), MongoDB, MySQL, MS SQL</li>
     <li>:handbag: <strong>Exposure:</strong> Java, PHP, C, C++, Kubernetes, AWS, GCP, Docker, PostgreSQL, Atlassian</li>
   </ul>
-
-  ## Quick Summary
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danlee0528&show_icons=true&theme=default)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlee0528&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
