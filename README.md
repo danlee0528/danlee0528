@@ -16,7 +16,9 @@
   ## Tech Stack
   <ul>
     <li>:hammer: <strong>Front-End:</strong> HTML5, CSS3, JavaScript(ES6), React</li>
-    <li>:nut_and_bolt: <strong>Back-End:</strong> Node, Express, Python(Django), MongoDB, MySQL, MS SQL</li>
+    <li>:nut_and_bolt: <strong>Back-End:</strong> Node, Express, Python(Django)</li>
+    <li>:file_folder: <strong>Database:</strong>  MongoDB, MySQL, MS SQL, PostgreSQL </li>
+    <li>:mag_right: <strong>Data Analysis:</strong> Scikit-Learn, Matplotlib, Pandas, Numpy, Sumo Logic, New Relic</li>
     <li>:handbag: <strong>Exposure:</strong> Java, PHP, C, C++, Kubernetes, AWS, GCP, Docker, PostgreSQL, Atlassian</li>
   </ul>
 
