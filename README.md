@@ -9,9 +9,8 @@
   </details>
   <ul>
     <li> 🇨🇦  Hi, I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
-    <li>:mortar_board: <strong>I'm expecting graduation in Dec 2020 and actively looking for full-time opportunities!</strong></li>
+  <li> 🇰🇷 안녕하세요, 벤쿠버에서 살고있는 신생 개발자 입니다. 좋은 정보나 프로젝트 공요해요 </li>
   </ul>
-
   ## Tech Stack
   <ul>
     <li><strong>Front-End:</strong> HTML5, CSS3/SASS, JavaScript(ES6), React/Redux, TypeScript</li>
