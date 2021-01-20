@@ -11,7 +11,8 @@
     <li> 🇨🇦  Hi, I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
   <li> 🇰🇷 안녕하세요, 벤쿠버에서 살고있는 신생 개발자 입니다. 좋은 정보나 프로젝트 공요해요 </li>
   </ul>
-  ## Tech Stack
+  
+## Tech Stack
   <ul>
     <li><strong>Front-End:</strong> HTML5, CSS3/SASS, JavaScript(ES6), React/Redux, TypeScript</li>
     <li><strong>Back-End:</strong> Node/Express, Python(Django)</li>
