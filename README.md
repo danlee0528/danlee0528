@@ -2,9 +2,10 @@
   <details open>
     <summary>My Social Networking Sites</summary>
     <div>
-      <a href="https://www.linkedin.com/in/dlee0528/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://dev.to/danlee0528" target="_blank"><img src= "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-      <a href="https://www.youtube.com/channel/UCwqWNzINlWxwfNCPAU86_Fg?view_as=subscriber" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/dlee0528/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-32.png"></a>
+      <a href="https://www.instagram.com/daniellee.dev/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-32.png"></a>
+      <a href="https://www.youtube.com/channel/UCwqWNzINlWxwfNCPAU86_Fg?view_as=subscriber" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-32.png"></a>
+      <a href="https://dev.to/danlee0528" target="_blank"><img src= "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width = "32px"></a>
     </div>
   </details>
   <ul>
