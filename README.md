@@ -1,5 +1,5 @@
 # Hi there, welcome to my Github space 🚀
-  <details open>
+  <details>
     <summary>My Social Networking Sites</summary>
     <div>
       <a href="https://www.linkedin.com/in/dlee0528/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-32.png"></a>
@@ -9,8 +9,8 @@
     </div>
   </details>
   <ul>
-    <li> 🇨🇦  Hi, I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
-  <li> 🇰🇷 안녕하세요, 벤쿠버에서 살고있는 신생 개발자 입니다. 좋은 정보나 프로젝트 공요해요 </li>
+    <li> Hi, I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
+    <li> 안녕하세요, 벤쿠버에서 살고있는 개발자 입니다. 좋은 정보나 프로젝트 공요해요</li>
   </ul>
   
 ## Tech Stack
