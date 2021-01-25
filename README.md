@@ -10,7 +10,6 @@
   </details>
   <ul>
     <li> Hi, I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
-    <li> 안녕하세요, 벤쿠버에서 살고있는 개발자 입니다. 좋은 정보나 프로젝트 공요해요</li>
   </ul>
   
 ## Tech Stack
