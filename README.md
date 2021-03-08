@@ -1,6 +1,6 @@
 # Hi there, welcome to my Github space!
 <details>
-  <summary>Connect Me</summary>
+  <summary>Connect with Me</summary>
   <nav>
     <a href="https://www.linkedin.com/in/dlee0528/" target="_blank">
       <img src="https://danlee0528.github.io/icons/linkedin.png" width="32px">
