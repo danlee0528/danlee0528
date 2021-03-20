@@ -1,5 +1,5 @@
 # Hi there, welcome to my Github space!
-<details>
+<details open>
   <summary>Connect with Me</summary>
   <nav>
     <a href="https://www.linkedin.com/in/dlee0528/" target="_blank">
