@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/dlee0528/" target="_blank">
       <img src="https://danlee0528.github.io/icons/linkedin.png" width="32px">
     </a>
-    <a href="https://www.instagram.com/daniellee.dev/" target="_blank">
+    <a href="https://www.instagram.com/danlee0528/" target="_blank">
       <img src="https://danlee0528.github.io/icons/instagram.png" width="32px"/>
     </a> 
     <a href="https://www.youtube.com/channel/UCwqWNzINlWxwfNCPAU86_Fg?view_as=subscriber" target="_blank">
