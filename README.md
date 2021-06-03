@@ -1,6 +1,12 @@
-# Hi there, welcome to my Github space!
+# Hi there, welcome to my Github space :smiley:
+<img src="https://user-images.githubusercontent.com/28618660/120600250-6430e400-c3fd-11eb-94a8-dd48004f35c6.png" width="40%"/>
+<ul>
+  <li>:wave: I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
+  <li>:technologist: I'm currently exploring deep learning</li>
+</ul>
+
 <details open>
-  <summary>Connect with Me</summary>
+  <summary>Click here to connect with me!</summary>
   <nav>
     <a href="https://www.linkedin.com/in/dlee0528/" target="_blank">
       <img src="https://danlee0528.github.io/icons/linkedin.png" width="32px">
@@ -15,12 +21,8 @@
       <img src= "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width = "32px">
     </a>
   </nav>
-</details>
-  
-<ul>
-  <li> 👋.  I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
-</ul>
-  
+</details> 
+
 ## Summary
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danlee0528&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlee0528&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
