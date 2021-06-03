@@ -1,5 +1,6 @@
-# Hi there, welcome to my Github space :smiley:
-<img src="https://user-images.githubusercontent.com/28618660/120600250-6430e400-c3fd-11eb-94a8-dd48004f35c6.png" width="40%"/>
+# Greeting! Welcome to my Github space :rocket:
+<img src="https://user-images.githubusercontent.com/28618660/120601044-516adf00-c3fe-11eb-9f36-84edc86a9461.gif" width="50%"/>
+
 <ul>
   <li>:wave: I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
   <li>:technologist: I'm currently exploring deep learning</li>
