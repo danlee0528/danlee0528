@@ -6,7 +6,7 @@
   <li>:technologist: I'm currently exploring deep learning</li>
 </ul>
 
-<details open>
+<details>
   <summary>Click here to connect with me!</summary>
   <nav>
     <a href="https://www.linkedin.com/in/dlee0528/" target="_blank">
