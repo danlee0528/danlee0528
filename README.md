@@ -3,7 +3,7 @@
 
 <ul>
   <li>:wave: I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
-  <li>:technologist: I'm currently exploring deep learning</li>
+  <li>:technologist: I'm currently exploring deep learning & D3J</li>
 </ul>
 
 <details>
