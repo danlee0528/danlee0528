@@ -5,7 +5,7 @@
   <li>:wave: I'm a Vancouver-based Software Developer who enjoys creating visual, tangible and interactive applications</li>
 </ul>
 
-<details>
+<details open>
   <summary>Click here to connect with me!</summary>
   <nav>
     <a href="https://www.linkedin.com/in/dlee0528/" target="_blank">
