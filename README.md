@@ -16,7 +16,7 @@
 </tr>
 </table>
 
-## Things I've worked before
+## Things I've worked in the past
 <p>:seedling: <b>Programming Languages</b>: HTML5, CSS3, JavaScript (ES6+), Python, TypeScript, C++, C, Java </p>
 <p>:seedling: <b>Frameworks</b>: React.js, Node.js, Express.js, Material UI, Emotion (CSS-IN-JS), Apollo Client </p>
 <p>:seedling: <b>Databases</b>: MongoDB, MySQL, MS SQL, PostgreSQL </p>
