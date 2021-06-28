@@ -20,6 +20,7 @@
 <p>:seedling: <b>Programming Languages</b>: HTML5, CSS3, JavaScript (ES6+), Python, TypeScript, Java, C++ (v11), C </p>
 <p>:seedling: <b>Frameworks</b>: React.js, Node.js, Express.js, Material UI, Emotion (CSS-IN-JS), Apollo Client, Django </p>
 <p>:seedling: <b>Databases</b>: MongoDB, MySQL, MS SQL, PostgreSQL </p>
+<p>:seedling: <b>Testing</b>: Cypress, Jest, Selenium </p>
 <p>:seedling: <b>DevOps</b>: Atlassian, AWS, GCP, Azure, Docker, Kubernetes, Netlify, Firebase </p>
 <p>:seedling: <b>Others</b>: Sumo Logic, New Relic, Agile, Kanban, Android Studio, REST, GraphQL, Android Studio </p>
 
