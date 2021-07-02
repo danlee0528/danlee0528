@@ -24,6 +24,10 @@
 <p>:seedling: <b>DevOps</b>: Atlassian, AWS, GCP, Azure, Docker, Kubernetes, Netlify, Firebase </p>
 <p>:seedling: <b>Others</b>: Sumo Logic, New Relic, Agile, Kanban, Android Studio, REST, GraphQL, Android Studio </p>
 
+## What I'm doing / planning to do in the future
+<p>:books: Learning Java Spring to get a sense of a different web application developoment environment</p>
+<p>:books: Learning React Native to get my foot in the door of mobile application development</p>
+
 
 ## Github Summary
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danlee0528&show_icons=true&theme=radical)
