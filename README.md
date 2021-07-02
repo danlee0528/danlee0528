@@ -27,6 +27,7 @@
 ## What I'm doing / planning to do in the future
 <p>:books: Learning Java Spring to get a sense of a different web application developoment environment</p>
 <p>:books: Learning React Native to get my foot in the door of mobile application development</p>
+<p>:books: Learning Depp Learning to explore advanced machine learning techniques</p>
 
 
 ## Github Summary
