@@ -8,7 +8,6 @@
     
 <h3> Ways to Connect </h3>
 <a href="https://www.linkedin.com/in/dlee0528/" target="_blank"><img src="https://danlee0528.github.io/icons/linkedin.png" width="32px"></a>
-<a href="https://www.instagram.com/danlee0528/" target="_blank"><img src="https://danlee0528.github.io/icons/instagram.png" width="32px"/></a>
 <a href="https://www.youtube.com/channel/UCwqWNzINlWxwfNCPAU86_Fg?view_as=subscriber" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-32.png"></a>
 <a href="https://dev.to/danlee0528" target="_blank"> <img src= "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width = "32px"></a>
 
