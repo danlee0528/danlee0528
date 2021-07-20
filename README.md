@@ -21,6 +21,7 @@
 <p>:seedling: <b>Databases</b>: MongoDB, MySQL, MS SQL, PostgreSQL </p>
 <p>:seedling: <b>Testing</b>: Cypress, Jest, Selenium </p>
 <p>:seedling: <b>DevOps</b>: Atlassian, AWS, GCP, Azure, Docker, Kubernetes, Netlify, Firebase </p>
+<p>:seedling: <b>Design</b>: Adobe Photoshop, Adobe Illustrator, After Effect, Figma, Adobe Xd </p>
 <p>:seedling: <b>Others</b>: Sumo Logic, New Relic, Agile, Kanban, Android Studio, REST, GraphQL, Android Studio </p>
 
 
